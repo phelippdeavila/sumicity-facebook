@@ -40,15 +40,15 @@
             <p>
                 <!-- Banner Alteração no E-mail -->
                 <div id="splash_alteracao_email">
-                <a href="http://www.sumicity.com.br/email/AlterarContaOutlookExpress.html" target="_blank" id="linkOutlookExpress" title="Configurações do Microsoft Outlook Express" class="link config-outlook-express">Configurações do Microsoft Outlook Express</a>
-                <a href="http://www.sumicity.com.br/email/AlterarContaOutlook2010.html" target="_blank" id="linkOutlook2010" title="Configurações do Microsoft Outlook 2010" class="link config-outlook-2010">Configurações do Microsoft Outlook 2010</a>
+                <a href="http://www.sumicity.com.br/perguntas-frequentes/e-mail/alterar-uma-conta-de-e-mail-no-microsoft-outlook-express/" target="_blank" id="linkOutlookExpress" title="Configurações do Microsoft Outlook Express" class="link config-outlook-express">Configurações do Microsoft Outlook Express</a>
+                <a href="http://www.sumicity.com.br/perguntas-frequentes/e-mail/alterar-uma-conta-de-e-mail-no-microsoft-outlook-2010/" target="_blank" id="linkOutlook2010" title="Configurações do Microsoft Outlook 2010" class="link config-outlook-2010">Configurações do Microsoft Outlook 2010</a>
                 </div>
                 <!-- Banner Alteração no E-mail -->
             </p>
 
             <p>
                 <div>
-                <a target="_blank" href="http://sac.sumicity.com.br"><img src="http://www.sumicity.com.br/img/facebook-sem-boleto-impresso.jpg" border="0" width="599" height="529" /></a>
+                <a target="_blank" href="http://sac.sumicity.net.br"><img src="assets/images/facebook-sem-boleto-impresso.jpg" border="0" width="599" height="529" /></a>
                 </div>
             </p>
         </div>
