@@ -1,0 +1,38 @@
+/* 
+    Document   : style
+    Created on : 01/04/2013, 15:11:55
+    Author     : Phelipp de Avila
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+@import url('assets/css/reset.css');
+@import url('assets/css/basic.css');
+@import url('assets/css/grid.css');
+
+body {
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+p {}
+
+.align-center {
+    text-align: center;
+}
+
+/* header */
+
+#header {
+    margin-bottom: 20px;
+}
+
+.bg-blue {
+    background-color: #1f6fb6;
+}
+
+h1.logo-sumicity {}

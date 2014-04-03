@@ -1,0 +1,42 @@
+/* 
+    Document   : informativos
+    Created on : 01/04/2013, 16:38:52
+    Author     : Phelipp de Avila
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body, div, p {
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif;
+}
+p {
+        background: none;
+        font-size: 11px;
+}
+div#splash_alteracao_email {
+        background: url('http://www.sumicity.com.br/img/splash_alteracao_email_face.jpg') center center no-repeat;
+        margin:0 auto 100px;
+        width: 427px;
+        height: 460px;
+}
+div#splash_alteracao_email  .link {
+        text-indent: -999999px;
+        overflow: hidden;
+}
+div#splash_alteracao_email .config-outlook-express {
+        cursor: pointer;
+    display: block;
+    height: 43px;
+    margin: 380px 0 0 55px;
+    width: 150px;
+        float: left;
+}
+div#splash_alteracao_email .config-outlook-2010 {
+        cursor: pointer;
+    display: block;
+    float: left;
+    height: 43px;
+    margin: 380px 0 0 15px;
+    width: 140px;
+}
