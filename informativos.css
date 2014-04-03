@@ -15,7 +15,7 @@ p {
         font-size: 11px;
 }
 div#splash_alteracao_email {
-        background: url('http://www.sumicity.com.br/img/splash_alteracao_email_face.jpg') center center no-repeat;
+        background: url('assets/images/splash_alteracao_email_face.jpg') center center no-repeat;
         margin:0 auto 100px;
         width: 427px;
         height: 460px;
